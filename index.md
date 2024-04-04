@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning and LLM
+## Select projects in data science, machine learning and LLM
 
 ---
 
@@ -31,12 +31,13 @@ This project serves as a comprehensive example, providing all the necessary code
 
 ---
 
-### InquireGuard: Harnessing the LLama Model for Secure and Comprehensive Knowledge Queries
-InquireGuard represents a breakthrough in query-based applications, providing users with a secure and reliable platform to access information while safeguarding their privacy and maintaining data integrity.
+### Introducing HeartBeat: A Python-based RAG Streamlit Chatbot Powered by Advanced AI for Heart Health Queries
+
+Introducing HeartBeat, an innovative Python-based RAG Streamlit chatbot, leveraging the LLama2 model and LangChain framework alongside AWS Titan embedding for processing heart health information. Designed for cardiology patients, HeartBeat offers an interactive Q&A experience, providing accurate, context-sensitive answers through a user-friendly interface. It integrates seamlessly with AWS-Bedrock's language models for rapid response, making it an ideal tool for patients to explore heart health queries securely. HeartBeat transforms cardiology information access, offering AI-driven insights in a confidential environment, empowering patients on their healthy Heart journey.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Github](https://github.com/devanand73/medical_RAG.git)
+[View code on Github](https://github.com/devanand73/AWS_Bedrock_RAG)
 
 ---
 
