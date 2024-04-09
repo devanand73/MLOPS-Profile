@@ -9,7 +9,7 @@ In the fast-evolving landscape of data science, efficient data management system
 
 [View High-Level Design on Google Drive](https://drive.google.com/file/d/1AD8TSdZ8CEVVD7UR2bm9QnMLrpfyvM3Y/view?usp=sharing)
 
-<img src="images/?raw=true"/>
+<img src="images/serverless_Analytics_green (1).pn?raw=true"/>
 
 ---
 
@@ -31,6 +31,11 @@ This project serves as a comprehensive example, providing all the necessary code
 
 [View code on Github](https://github.com/devanand73/Kidney-Disease-Classification-Deep-Learning-Project)
 
+<img src="images/ML_process_flow.png?raw=true"/>
+
+
+<img src="images/docker_fastapi.png?raw=true"/>
+
 ---
 
 ### Introducing HeartBeat: A Python-based RAG Streamlit Chatbot Powered by Advanced AI for Heart Health Queries
@@ -40,6 +45,8 @@ Introducing HeartBeat, an innovative Python-based RAG Streamlit chatbot, leverag
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
 [View code on Github](https://github.com/devanand73/AWS_Bedrock_RAG)
+
+<img src="images/simple_RAG_system.png?raw=true"/>
 
 ---
 
