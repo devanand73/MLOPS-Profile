@@ -9,6 +9,8 @@ In the fast-evolving landscape of data science, efficient data management system
 
 [View High-Level Design on Google Drive](https://drive.google.com/file/d/1AD8TSdZ8CEVVD7UR2bm9QnMLrpfyvM3Y/view?usp=sharing)
 
+<img src="images/?raw=true"/>
+
 ---
 
 ### Wine Quality Prediction based on 12+ wine chemical properties
